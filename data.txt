@@ -2,10 +2,10 @@
 add column `update_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 CREATE TABLE `paper` (
   `paper_id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT 'paperID',
-  `name` varchar(100) NOT NULL COMMENT 'paper√˚≥∆',
-  `number` int(11) NOT NULL COMMENT 'paper ˝¡ø',
-  `detail` varchar(200) NOT NULL COMMENT 'paper√Ë ˆ',
-  `location` varchar(200) NOT NULL COMMENT 'paperŒª÷√',
+  `name` varchar(100) NOT NULL COMMENT 'paperÂêçÂ≠ó',
+  `number` int(11) NOT NULL COMMENT 'paperÊï∞Èáè',
+  `detail` varchar(200) NOT NULL COMMENT 'paperËØ¶ÊÉÖ',
+  `location` varchar(200) NOT NULL COMMENT 'paper‰ΩçÁΩÆ',
   PRIMARY KEY (`paper_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8 COMMENT='paper±Ì';
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8 COMMENT='paperË°®';
 
