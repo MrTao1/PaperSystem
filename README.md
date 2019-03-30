@@ -2,7 +2,7 @@
 ===
 入门级增删改查项目
 ----
-项目运行结果：<br>
+项目的框架详细见我的源码，项目的运行结果w：<br>
 ![Alt text](https://github.com/MrTao1/-SSM-/blob/master/screenshots/Screenshot_1.png)
 ![Alt text](https://github.com/MrTao1/-SSM-/blob/master/screenshots/Screenshot_2.png)
 ![Alt text](https://github.com/MrTao1/-SSM-/blob/master/screenshots/Screenshot_3.png)
